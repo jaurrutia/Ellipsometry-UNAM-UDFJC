@@ -1,6 +1,9 @@
 # Ellipsometry Data Analysis Using Open-Source Tools
+### Jonathan A. Urrutia-Anguiano
 
+---
 **RefEllips · pyElli · (pending: regress-pro)**
+---
 
 ```{=html}
 <p align="center">
