@@ -63,7 +63,17 @@ Replace the encoding in the original `dataSE()` calls in
 
     $VENV/lib/python3.13/site-packages/refellips/dataSE.py:528
 
-where $VENV stands for the directory where the vtual environment is allocates (usually in the Home directory). In particular exchange "ANSI" by "cp1252" in the line 528 from the dataSE.py file.
+where $VENV stands for the directory where the vitual environment is allocates (usually in the Home directory). In particular exchange "ANSI" by "cp1252" in the line 528 from the dataSE.py file.
+
+### **An additio step for the Horiba file**
+
+Additionally to the modification in the `dataSE.open_HORIBAfile()` function described above, The encoding of the `.spe` file must be changed as well. **Both steps must be performed!**. To change the file encoding, the following bash script can be used:
+
+``` bash
+iconv -f WINDOWS-1252 -t UFT-8 file_name.spe > file_name-uft8.spe
+```
+
+Once this is performed, the analysis is performed as above
 
 ### **Why this works**
 
