@@ -1,20 +1,18 @@
 # Ellipsometry Data Analysis Using Open-Source Tools
+
+<p align="right">
+<img src="logos.png" alt="UDFJS - PCF-UNAM" width="200"/>
+</p>
+
 ### Jonathan A. Urrutia-Anguiano
+### PAEP 2025
 
 ---
 **RefEllips · pyElli · (pending: regress-pro)**
 ---
-`<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Escudo_UD.svg" alt="Universidad Distrital Francisco José de Caldas" width="200"/>`{=html}
 
-```{=html}
-<p align="center">
-```
-`<img src="assets/logo_facultad_ciencias_unam.png" alt="Facultad de Ciencias UNAM" width="200"/>`{=html}
-    
-`<img src="assets/logo_udistrital.png" alt="Universidad Distrital Francisco José de Caldas" width="200"/>`{=html}
-```{=html}
-</p>
-```
+
+
 This repository compiles the technical notes, scripts, workflows, and
 results obtained during a short research stay at the **Optical
 Characterization Laboratory** of the **Scientific and Didactic
