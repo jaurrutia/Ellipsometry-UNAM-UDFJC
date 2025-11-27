@@ -4,6 +4,7 @@
 ---
 **RefEllips · pyElli · (pending: regress-pro)**
 ---
+`<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Escudo_UD.svg" alt="Universidad Distrital Francisco José de Caldas" width="200"/>`{=html}
 
 ```{=html}
 <p align="center">
