@@ -1,42 +1,28 @@
 # Ellipsometry Data Analysis Using Open-Source Tools
 
 <p align="right">
-<img src="logos.png" alt="UDFJS - PCF-UNAM" width="200"/>
+<img src="logos.png" alt="UDFJS - PCF-UNAM" width="400"/>
 </p>
 
-### Jonathan A. Urrutia-Anguiano
-### PAEP 2025
+-----
 
----
-**RefEllips · pyElli · (pending: regress-pro)**
----
+**Jonathan A. Urrutia-Anguiano**
+    Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM)
+    Short academic stay at Universidad Distrital Francisco José de Caldas (UDFJC)
 
-
-
-This repository compiles the technical notes, scripts, workflows, and
-results obtained during a short research stay at the **Optical
-Characterization Laboratory** of the **Scientific and Didactic
-Instrumentation Group (GICD)** at the **Universidad Distrital Francisco
-José de Caldas**, Bogotá, Colombia.\
-The work focuses on analyzing ellipsometric data acquired with a
-**HORIBA commercial ellipsometer**, using open-source software tools for
-data processing, model fitting, and optical response extraction.
+This repository compiles the technical notes, scripts, workflows, and results obtained during a short research stay at the **Laboratorio Nacional Espectroscopía Elipsométrica** in UDFJC.
+The work focuses on analyzing ellipsometric data acquired with a **HORIBA commercial ellipsometer**, using open-source software tools for data processing, model fitting, and optical response extraction.
 
 ## Research Stay Information
 
--   **Student:** *Jonathan Urrutia*\
--   **Program:** PhD in Science (Physics), Facultad de Ciencias, UNAM\
--   **Advisor:** Dr. **Alejandro Reyes-Coronado** (UNAM)\
--   **Host institution:** **Universidad Distrital Francisco José de
-    Caldas**\
--   **Host research group:** Scientific and Didactic Instrumentation
-    Group (GICD)\
--   **Laboratory:** Optical Characterization Laboratory\
--   **Host researcher:** Dr. **César Herreño**\
--   **Location:** Bogotá, Colombia\
+-   **Student:** Jonathan A. Urrutia Anguiano
+-   **Program:** Posgrado en Ciencias Físicas (Doctorado), UNAM
+-   **Advisor:** Dr. Alejandro Reyes-Coronado
+-   **Host institution:** Universidad Distrital Francisco José de Caldas
+-   **Host researcher:** Dr. César Aurelio Herreño Fierro
+-   **Location:** Bogotá D.C., Colombia
 -   **Dates:** *November 12--28, 2025*\
--   **Financial support:** Mobility funding granted by the **Facultad de
-    Ciencias, UNAM**.
+-   **Financial support:** Programa de Apoyo a Estudiantes de Posgrado (PAEP) 2025
 
 ## Purpose of This Repository
 
